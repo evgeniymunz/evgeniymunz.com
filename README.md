@@ -1,2 +1,2 @@
 # public
-external 
+external project's libary
